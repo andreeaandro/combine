@@ -3,5 +3,7 @@
     <pages>
         <page name='Making a network request with dataTaskPublisher'/>
         <page name='Stricter request processing with dataTaskPublisher'/>
+        <page name='Wrapping an asynchronous call with a Future to create a one-shot publisher'/>
+        <page name='Sequencing operations with Combine'/>
     </pages>
 </playground>
